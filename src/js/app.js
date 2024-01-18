@@ -7,3 +7,7 @@ import Game, {
 const game = new Game();
 
 game.start();
+
+console.log(GameSavingData);
+console.log(loadGame);
+console.log(saveGame);
